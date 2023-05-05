@@ -26,7 +26,7 @@
         "ilbee/csv-response": "^1.1.1",
         "m1x0n/opis-json-schema-error-presenter": "^0.5.3",
         "fylax/forceutf8": "~3.0",
-        "npm-asset/select2": "^4.0",
+        "select2/select2": "^4.0",
         "oomphinc/composer-installers-extender": "^2.0",
         "ramsey/uuid" : "^3.8.0",
         "stolt/json-merge-patch": "^2.0",
